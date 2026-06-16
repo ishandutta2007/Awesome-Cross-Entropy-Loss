@@ -67,3 +67,14 @@ Evaluating classification on a **pixel-by-pixel** level instead of whole-image c
 | Example Application | The Math / Logic | Scenario | Year | Original Paper |
 | :--- | :--- | :--- | :--- | :--- |
 | A medical imaging AI identifying cancer cells on an X-ray. | Pixel-wise cross-entropy loss applied to every individual pixel. | Every single pixel is individually classified as either "tumor" or "healthy tissue", allowing for precise semantic localization. | 2015 | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) |
+
+## 📈 Star History
+<div align="center">
+   <a href="https://www.star-history.com/repos=ishandutta2007%2FAwesome-Cross-Entropy-Loss&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Cross-Entropy-Loss&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Cross-Entropy-Loss&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Cross-Entropy-Loss&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
