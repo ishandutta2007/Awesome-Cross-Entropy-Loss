@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
-  <a href="https://github.com/sindresorhus/awesome">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />
   </a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007label=Follow" /></a>
